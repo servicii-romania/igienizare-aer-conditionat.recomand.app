@@ -1,0 +1,4 @@
+baseURL = 'https://igienizare-aer-conditionat.recomand.app/'
+languageCode = 'ro-ro'
+title = 'Igienizare Aer Conditionat'
+theme = 'ananke'
